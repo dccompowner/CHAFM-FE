@@ -18,3 +18,12 @@ reproducibility, and theoretical development.
 
 The author retains commercial rights to applications, tooling, and
 implementations intended for profit or proprietary use.
+
+## Requirements
+
+The validation scripts require a standard scientific Python environment:
+
+- Python 3.9+
+- NumPy
+- SciPy
+- Matplotlib
