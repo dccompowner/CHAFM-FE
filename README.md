@@ -11,3 +11,10 @@ Use is permitted for research, academic, and educational purposes.
 Commercial use, proprietary integration, or for-profit application requires
 a separate commercial license from the author.
 
+## Scope and Intent
+
+CHAFM-FE is provided to enable independent scientific validation,
+reproducibility, and theoretical development.
+
+The author retains commercial rights to applications, tooling, and
+implementations intended for profit or proprietary use.
