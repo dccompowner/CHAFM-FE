@@ -1,5 +1,8 @@
 # CHAFM-FE
 Classical electromagnetic confinement framework deriving atomic and material properties from finite-extent Maxwellian geometry.
+
+**Associated Publication:** [DOI: 10.5281/zenodo.18487004](https://doi.org/10.5281/zenodo.18487004)
+
 Open for research and validation; commercial use requires a separate license.
 
 ## License
